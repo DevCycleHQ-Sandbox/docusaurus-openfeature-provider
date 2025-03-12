@@ -10,7 +10,8 @@
   "license": "MIT",
   "author": "DevCycle",
   "dependencies": {
-    "@openfeature/react-sdk": "latest"
+    "@openfeature/react-sdk": "latest",
+    "webpack": "^5.98.0"
   },
   "files": [
     "src"
